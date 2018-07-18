@@ -1,0 +1,15 @@
+.header{
+  height: 73px;
+  background-color: #4f45d1;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.img{
+  height: auto; 
+  width: auto; 
+  max-width: 50px; 
+  max-height: 50px;
+}
